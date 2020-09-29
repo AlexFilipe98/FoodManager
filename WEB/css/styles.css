@@ -1,0 +1,104 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background: #4e555b;
+}
+
+.bgparticles {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    /*z-index: -1;*/
+    background: rebeccapurple;
+    /*background-image: url("../img/bground.jpg");
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);*/
+}
+
+a {
+    text-decoration: none;
+}
+
+.card {
+    background: #5a6268;
+}
+
+.card-header {
+    background: #121212;
+    color: white;
+}
+
+.card-body {
+
+}
+
+.card-footer {
+    background: #121212;
+    color: white;
+}
+
+.vertical-line {
+    border-right: 3px solid white;
+    margin-right: 5px;
+}
+
+a.nav-link.active {
+    background: #4e555b;
+    border-radius: 5px;
+    color: white !important;
+    transition: 0.5s;
+    padding-left: 5px;
+}
+
+.navbar-collapse.collapse.show {
+    padding-top: 25px;
+    transition: 1.0s;
+}
+
+section div.container-padding {
+    opacity: 1;
+}
+
+section:target {
+    padding: 100px 50px 15px 150px;
+    opacity: 1;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+}
+
+section:target div {
+    opacity: 0;
+    animation: 2s fadeIn forwards .5s;
+}
+
+.section-header{
+    color: white;
+    /*font-weight: bolder;*/
+    text-transform: uppercase;
+}
+
+table{
+    border-radius: 5px;
+    /*max-width: 500px;*/
+}
+
+thead{
+    font-weight: bold;
+    background: #0f6674;
+}
+.content{
+    overflow-y: auto;
+    max-height: 80vh;
+    background: #4e555b;
+}
+@keyframes fadeIn {
+    100% {
+        opacity: 1
+    }
+}

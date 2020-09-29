@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc668420-0d59-4882-9f51-7c87534c436a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1h3VAi4tiJz3za4ofrnjSp8HhBO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WWW\Food Helper" />
+      <recent name="D:\WWW\Food Helper\node_modules\particles.js\demo" />
+      <recent name="D:\WWW\Food Helper\node_modules\particles.js\demo\js" />
+      <recent name="D:\WWW\Food Helper\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WWW\Food Helper\img" />
+      <recent name="D:\WWW\Food Helper" />
+      <recent name="D:\WWW\Food Helper\fodasse" />
+      <recent name="D:\WWW\Food Helper\fonts" />
+      <recent name="D:\WWW\Food Helper\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc668420-0d59-4882-9f51-7c87534c436a" name="Default Changelist" comment="" />
+      <created>1599239621750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599239621750</updated>
+      <workItem from="1599239622762" duration="10000" />
+      <workItem from="1599239657479" duration="8863000" />
+      <workItem from="1599404327938" duration="3583000" />
+      <workItem from="1599409731080" duration="8334000" />
+      <workItem from="1599419095619" duration="900000" />
+      <workItem from="1599475427468" duration="14565000" />
+      <workItem from="1599572794832" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="174" key="#CLI_Interpreters" timestamp="1599240287545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="174" key="#CLI_Interpreters/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599240287545" />
+    <state x="667" y="162" key="#PHP" timestamp="1599240289541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="162" key="#PHP/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599240289541" />
+    <state x="336" y="326" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599250052897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="336" y="326" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599250052897" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1599240284451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599240284451" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1599417478267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599417478267" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1599490075857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599490075857" />
+  </component>
+</project>

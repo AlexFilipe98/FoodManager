@@ -1,0 +1,67 @@
+:root {
+    --navbar: rgba(16, 17, 16, 0.7);
+    --inventory: rgba(217, 106, 167, 0.7);
+    --recipes: rgba(66, 44, 115, 0.7);
+    --products: rgba(136, 191, 181, 0.7);
+    --buylist: rgba(136, 191, 154, 0.7);
+    --light-color: #D2A9D9;
+    --user: rgba(18, 18, 18, 0.7);
+}
+
+nav a {
+    font-size: 40px;
+    color: #fff;
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    position: fixed;
+    left: 0;
+    z-index: 50;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 100vh;
+    background: var(--navbar);
+}
+
+section {
+    position: absolute;
+    top: 0;
+    height: 100vh;
+    width: 0;
+    opacity: 0;
+    transition: all ease-in .5s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+#inventory {
+    background: var(--inventory);
+}
+
+#recipes {
+    background: var(--recipes);
+}
+
+#products {
+    background: var(--products);
+}
+
+#buylist {
+    background: var(--buylist);
+}
+
+#user {
+    background: var(--user);
+}
+
+@keyframes fadeIn {
+    100% {
+        opacity: 1
+    }
+}
