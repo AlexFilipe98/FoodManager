@@ -1,0 +1,8 @@
+<resources>
+    <!-- APP STUFF -->
+    <string name="app_name">My Application</string>
+
+    <!-- Splash Screen -->
+    <string name="description_sc">BackGround Image for splash screen</string>
+    <string name="sc_title">Food\nManager</string>
+</resources>
